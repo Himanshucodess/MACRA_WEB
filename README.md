@@ -82,4 +82,4 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
-*Made with ❤️ by the MACRA community*
+*Made with ❤️ by the The Divergence*
