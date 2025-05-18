@@ -1,7 +1,7 @@
 # 🎉 MACRA Market Analyzer
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Contributors](https://img.shields.io/badge/contributors-You%20👩‍💻👨‍💻-blue.svg)]()
+[![Contributors](https://img.shields.io/badge/contributors-Himanshu%20👩‍💻👨‍💻-blue.svg)](https://github.com/Himanshucodess)
+[![Contributors](https://img.shields.io/badge/contributors-Abhay%20👩‍💻👨‍💻-blue.svg)](https://github.com/Mr-Spectr)
 
 **Your AI-powered, beginner-friendly guide to smarter stock investing!**
 
