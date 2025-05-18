@@ -3,7 +3,11 @@
 [![Contributors](https://img.shields.io/badge/contributors-Himanshu%20👩‍💻👨‍💻-blue.svg)](https://github.com/Himanshucodess)
 [![Contributors](https://img.shields.io/badge/contributors-Abhay%20👩‍💻👨‍💻-blue.svg)](https://github.com/Mr-Spectr)
 
-**Your AI-powered, beginner-friendly guide to smarter stock investing!**
+ **Your AI-powered, beginner-friendly guide to smarter stock investing!**
+
+<!-- GitHub icon from Simple Icons -->
+<img src="https://github.com/user-attachments/assets/df2a4f7b-765a-4ed5-aca8-65522d425734" alt="GitHub" width="200" />
+
 
 ---
 
@@ -83,3 +87,6 @@ Distributed under the MIT License. See `LICENSE` for details.
 ---
 
 *Made with ❤️ by the The Divergence*
+      <img src="https://github.com/user-attachments/assets/4905cd1a-e479-402d-bbea-4ba3d45c9cdb" alt="GitHub" width="200" />
+
+
