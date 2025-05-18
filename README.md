@@ -5,9 +5,7 @@
 
  **Your AI-powered, beginner-friendly guide to smarter stock investing!**
 
-<!-- GitHub icon from Simple Icons -->
-<img src="https://github.com/user-attachments/assets/df2a4f7b-765a-4ed5-aca8-65522d425734" alt="GitHub" width="200" />
-
+<img src="https://github.com/user-attachments/assets/df2a4f7b-765a-4ed5-aca8-65522d425734" alt="GitHub" width="300" />
 
 ---
 
